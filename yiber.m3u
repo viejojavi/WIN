@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Colombia/claro.com.co.channels.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml.gz"
 #EXTM3U
 #EXTINF:-1,Canal Caracol
 http://186.28.229.11:50800/play/idcanalcarac/index.m3u8?token=Xtr3am123
